@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o6hrZABTNtwdt6cI5pIUE1AuOVA074ORG0pTIkrPlSGaBOubUsOacielU52/54qQn4ok3t9ihm0vCk+N8UQPyQ==",
+  "success": true,
+  "projectFilePath": "/home/nithish/Desktop/Software/Learn_Dotnet/NET_code/ASP.NET_core/YT_Tutorial/GameStore.API/GameStore.API.csproj",
+  "expectedPackageFiles": [
+    "/home/nithish/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/nithish/.nuget/packages/minimalapis.extensions/0.11.0/minimalapis.extensions.0.11.0.nupkg.sha512",
+    "/home/nithish/.nuget/packages/minivalidation/0.8.0/minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
